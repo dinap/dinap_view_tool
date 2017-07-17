@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{View specific methods for apps I use.}
   spec.description   = %q{Provides generated HTML for Rails applications.}
-  spec.homepage      = "evolvesites.com"
+  spec.homepage      = "https://github.com/dinap/dinap_view_tool"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
